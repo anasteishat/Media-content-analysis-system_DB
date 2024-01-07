@@ -2,34 +2,28 @@
 
 Для тестування системи використовувся Postman
 
-## Role
+## Users
 
 ### Get All
-<p>
-    <img src="./images/get-all.png">
-</p>
 
-### Post
-<p>
-    <img src="./images/post.png">
-</p>
+![](./images/2024_01_07_17_07_00_495_1X3C.png)
 
-### Get/{id}
-<p>
-    <img src="./images/get-id.png">
-</p>
+### Get One
 
-###  Put
-<p>
-    <img src="./images/put.png">
-</p>
+![](./images/2024_01_07_17_05_10_498_9Q84.png)
+
+### Add
+
+![](./images/2024_01_07_17_03_51_425_Qrjt.png)
+
+### Update
+
+![](./images/2024_01_07_17_08_38_242_BNSc.png)
 
 ### Delete
-<p>
-    <img src="./images/remove.png">
-</p>
 
-### Get All(result)
-<p>
-    <img src="./images/get-all_2.png">
-</p>
+![](./images/2024_01_07_17_09_05_206_H0DL.png)
+
+### All methods result
+
+![](./images/2024_01_07_17_09_59_301_qfSU.png)
